@@ -1,0 +1,21 @@
+# --- Secrets ---
+# Ignore the file with environment variables
+.env
+
+# Ignore the Google Sheets credentials file
+credentials.json
+
+
+# --- Python ---
+# Ignore the virtual environment folder
+venv/
+*env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+
+# --- IDE / Editor ---
+# Ignore VSCode specific files
+.vscode/
