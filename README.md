@@ -61,7 +61,7 @@ Follow these steps to set up and run the bot locally or prepare it for deploymen
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/BirthMark21/Distiribution-Center-Bot.git
-cd Distiribution-Center-Bot
+cd DC_Bot
 ```
 
 ### 3. Create a Virtual Environment
